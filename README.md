@@ -2,7 +2,7 @@
 
 This is a solo project by <a href="https://scrimba.com/learn/frontend" target="_blank" alt="Scrimba's frontend career path web page">Scrimba's Frontend Career Path</a>
 
-#### <a href="" target="_blank">view the live version here</a>
+#### <a href="https://oldagram-awcoetzer.netlify.app" target="_blank">view the live version here</a>
 
 <img src="./assets/images/readme/scrimba-logo-1200x630.jpg" alt="Scrimba logo" width="100%">
 
